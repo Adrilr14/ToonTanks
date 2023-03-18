@@ -3,14 +3,14 @@
         {
             "name": "ToonTanksEditor Editor Win64 Development (ToonTanks)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\adril\\Desktop\\Cursos_Udemy\\UE5_C++Developer\\ToonTanks\\.vscode\\compileCommands_ToonTanks.json",
+            "compileCommands": "C:\\Users\\adril\\Desktop\\Proyectos\\GamesDeveloped_code\\Udemy_game_courses\\UE5_C++Developer\\ToonTanks\\.vscode\\compileCommands_ToonTanks.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\adril\\Desktop\\Cursos_Udemy\\UE5_C++Developer\\ToonTanks\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "C:\\Users\\adril\\Desktop\\Proyectos\\GamesDeveloped_code\\Udemy_game_courses\\UE5_C++Developer\\ToonTanks\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }
